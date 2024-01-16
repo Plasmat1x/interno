@@ -1,0 +1,7 @@
+.client {
+    grid: 1 span 3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 108px;
+}
